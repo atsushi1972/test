@@ -1,0 +1,221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 172.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git: pull",
+				"Git: Pull"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 426.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/atsushi/workspace/test/sass/test.scss",
+		"/home/atsushi/workspace/test/sass/test.scess",
+		"/home/atsushi/workspace/iizaka/wordpress/wp-content/themes/iizaka-onsen/style.css",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/css/cake.generic.css",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/css/fuweb.css",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/css/admin.css",
+		"/home/atsushi/workspace/FU-WEB/www/app/View/Layouts/manager_standard.ctp",
+		"/home/atsushi/workspace/FU-WEB/www/app/View/Layouts/top.ctp",
+		"/home/atsushi/workspace/FU-WEB/www/app/Controller/StoresController.php",
+		"/home/atsushi/workspace/FU-WEB/www/app/Controller/AppController.php",
+		"/home/atsushi/workspace/FU-WEB/www/app/View/Layouts/prefs.ctp",
+		"/home/atsushi/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/atsushi/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/atsushi/workspace/FU-WEB/www/app/Controller/PrefsController.php",
+		"/home/atsushi/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/_areatop.html",
+		"/home/atsushi/workspace/FU-WEB/www/app/View/Prefs/view.ctp",
+		"/home/atsushi/workspace/FU-WEB/www/app/Model/Girl.php",
+		"/home/atsushi/.config/sublime-text-2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/home/atsushi/.config/sublime-text-2/Packages/User/BracketHighlighter.sublime-settings",
+		"/home/atsushi/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/atsushi/.config/sublime-text-2/Packages/User/PHP.sublime-settings",
+		"/home/atsushi/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/atsushi/workspace/FU-WEB/www/app/View/Elements/fuweb-header.ctp",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/images/titlebg_moviepickup-a_on.gif",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/images/._btn_select-search_shop-b.jpg",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/images/._.DS_Store",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/images/no-photo.jpg",
+		"/home/atsushi/workspace/FU-WEB/www/app/webroot/._areatop.html",
+		"/home/atsushi/.config/sublime-text-2/Packages/User/HTML 5.sublime-settings",
+		"/home/atsushi/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/usr/share/applications/sublime.desktop"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"girls",
+			"css",
+			"$this->girl->shop_id",
+			"'オッパイ大王'",
+			"$girls->shop_type"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"girl",
+			"$girls->store_id",
+			"$girls->Store->name",
+			"$girls->Store->StoreType->name"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1056.0,
+		"selected_items":
+		[
+		],
+		"width": 1855.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 376.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,18 @@
+@import "compass";
+@import "compass/reset";
+
+$padding: 10px;
+
+.sample {
+	// @include border-radius(3px);
+	// @include opacity(0.5);
+	// @include box-shadow(0 0 1px #cccccc);
+	// @include rotate(30deg);
+	// @include clearfix;
+	width: image-width("neko.jpg") + ($padding * 2);
+}
+
+//css sprite
+
+@import "icons/*.png";
+@include all-icons-sprites;
